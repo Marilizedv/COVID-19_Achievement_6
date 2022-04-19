@@ -18,6 +18,7 @@ I used open source datasets. The vaccination dataset and new combined dataset ar
 - [Population Dataset](https://population.un.org/wpp/Download/Files/1_Indicators%20(Standard)/EXCEL_FILES/1_Population/WPP2019_POP_F01_1_TOTAL_POPULATION_BOTH_SEXES.xlsx)
 - [New Combined Dataset](https://covid.ourworldindata.org/data/owid-covid-data.csv)
 - [Time Series Data](https://data.nasdaq.com/data/BP/C02_EMMISSIONS_ZAF-carbon-dioxide-co2-emmissions-south-africa)
+- [Tableau Story: Analysis](https://public.tableau.com/app/profile/marilizedv/viz/Task6_7_COVID-19_Vaccination_Progress/COVID-19VaccinationProgress?publish=yes)
 ## Descriptions of Folders
 - **01_Project_Management:** This folder contains the Project Brief (business questions related to the project, analysis, expectations etc.)
 - **02_Data:** This folder contains the original datasets as well as Prepared Datasets after wrangling, cleaning and consistency checks, newly derived variables, and combined into one final dataset. The prepared datasets were exported after each step was completed.
