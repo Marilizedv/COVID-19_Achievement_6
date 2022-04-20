@@ -22,15 +22,10 @@ I used open source datasets. The vaccination dataset and new combined dataset ar
 - [Tableau Story: Analysis](https://public.tableau.com/app/profile/marilizedv/viz/Task6_7_COVID-19_Vaccination_Progress/COVID-19VaccinationProgress?publish=yes)
 - [Tableau Operational Dashboard (Bonus Task)]
 - [Data Analytics Portfolio]
-#### Maps
-- [Total Vaccinations per Hundred](file:///C:/Users/M%20de%20Villiers/Desktop/Data%20Analytics/Achievement%206/total%20vaccinations%20per%20hundred.html)
-- [People Fully Vaccinated per Hundred](file:///C:/Users/M%20de%20Villiers/Desktop/Data%20Analytics/Achievement%206/people%20fully%20vaccinated%20per%20hundred.html)
-- [People Vaccinated per Hundred (at least one shot)](file:///C:/Users/M%20de%20Villiers/Desktop/Data%20Analytics/Achievement%206/people%20vaccinated%20per%20hundred.html)
-- [Percentage of Deaths (proportion of population)](file:///C:/Users/M%20de%20Villiers/Desktop/Data%20Analytics/Achievement%206/Percetage%20of%20Deaths.html)
-- [Total Death Count](file:///C:/Users/M%20de%20Villiers/Desktop/Data%20Analytics/Achievement%206/total%20deaths.html)
 ## Descriptions of Folders
 - **01_Project_Management:** This folder contains the Project Brief (business questions related to the project, analysis, expectations etc.)
 - **02_Data:** This folder contains the original datasets as well as Prepared Datasets after wrangling, cleaning and consistency checks, newly derived variables, and combined into one final dataset. The prepared datasets were exported after each step was completed.
 - **03_Scripts:** This folder contains all my Jupyter Scripts with Python Codes necessary to complete the project.
+- **04_Maps:** This folder contains maps generated in Python
 
 
