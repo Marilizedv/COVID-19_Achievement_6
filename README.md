@@ -21,7 +21,7 @@ I used open source datasets. The vaccination dataset and new combined dataset ar
 - [Geo Data (geojson)](https://datahub.io/core/geo-countries#resource-countries)
 ### Visualisations, Deliverables, and Storytelling
 - [Tableau Story: Analysis](https://public.tableau.com/app/profile/marilizedv/viz/Task6_7_COVID-19_Vaccination_Progress/COVID-19VaccinationProgress?publish=yes)
-- [Tableau Operational Dashboard (Bonus Task)]
+- [Tableau Operational Dashboard (Bonus Task)](https://public.tableau.com/app/profile/marilizedv/viz/BONUS_TASK_COVID-19_Vaccination_Progress/Dashboard1?publish=yes)
 - [Data Analytics Portfolio]
 ## Descriptions of Folders
 - **01_Project_Management:** This folder contains the Project Brief (business questions related to the project, analysis, expectations etc.)
