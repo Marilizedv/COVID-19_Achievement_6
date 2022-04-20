@@ -22,7 +22,7 @@ I used open source datasets. The vaccination dataset and new combined dataset ar
 ### Visualisations, Deliverables, and Storytelling
 - [Tableau Story: Analysis](https://public.tableau.com/app/profile/marilizedv/viz/Task6_7_COVID-19_Vaccination_Progress/COVID-19VaccinationProgress?publish=yes)
 - [Tableau Operational Dashboard (Bonus Task)](https://public.tableau.com/app/profile/marilizedv/viz/BONUS_TASK_COVID-19_Vaccination_Progress/Dashboard1?publish=yes)
-- [Data Analytics Portfolio](https://drive.google.com/file/d/1MDA1ttqkPkUSDycd3YbVy1L3m8NzbStc/view?usp=sharing)
+- [Data Analytics Portfolio](https://drive.google.com/file/d/1k3Pquf-y90KVX2J1ErHiHdxNJXtZnWgo/view?usp=sharing)
 ## Descriptions of Folders
 - **01_Project_Management:** This folder contains the Project Brief (business questions related to the project, analysis, expectations etc.)
 - **02_Data:** This folder contains the original datasets as well as Prepared Datasets after wrangling, cleaning and consistency checks, newly derived variables, and combined into one final dataset. The prepared datasets were exported after each step was completed.
