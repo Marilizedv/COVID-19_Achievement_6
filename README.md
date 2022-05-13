@@ -1,4 +1,4 @@
-# COVID-19_Achievement_6
+# COVID-19_Python_Codes
 Scripts and data used for a project as part of  the Data Immersion Course at CareerFoundry
 ## Project Description
 The pandemic has been in the news since the beginning of 2020 and I have been interested in how countries are affected. The data of this pandemic has been available publicly since it is a global concern. I am also interested in determining how countries are progressing with the COVID-19 vaccination rollouts, which countries are using which vaccines and if the vaccines have had an effect on cases and deaths. I chose this topic since I am very interested in health statistics/data, coming from a health industry background.
